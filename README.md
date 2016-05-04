@@ -22,7 +22,8 @@ Functions:
     1. http://localhost:3000/getStudentsByYear/2012
     2. http://localhost:3000/getExcellentStudentsByYear/2012/70
     3. http://localhost:3000/getAllStudents
+  * or:
+    1. https://mark-students-ws.herokuapp.com/getAllStudents
+    2. https://mark-students-ws.herokuapp.com/getStudentsByYear/2012
+    3. https://mark-students-ws.herokuapp.com/getExcellentStudentsByYear/2012/90
 
-
-
-"# ws-students" 
